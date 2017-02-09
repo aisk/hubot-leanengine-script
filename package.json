@@ -1,7 +1,7 @@
 {
   "name": "hubot-leanengine-script",
   "description": "A hubot script that make hubot runs on LeanEngine",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Long Ang <aisk1988@gmail.com>",
   "license": "MIT",
 
@@ -9,11 +9,11 @@
 
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-leanengine-script.git"
+    "url": "git://github.com/aisk/hubot-leanengine-script.git"
   },
 
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-leanengine-script/issues"
+    "url": "https://github.com/aisk/hubot-leanengine-script/issues"
   },
 
   "dependencies": {
